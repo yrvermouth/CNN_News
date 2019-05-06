@@ -10,4 +10,4 @@ The trend of the most popular 5 words from 2012.5-2014.6.
 
 Word "obama" and "syria" show similar trend
 
-![trend](trend.png)
+![trend](trend2.png)
